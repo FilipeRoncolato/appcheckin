@@ -1,4 +1,7 @@
 body{
     background-color: ghostwhite;
     color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
